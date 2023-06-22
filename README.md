@@ -18,7 +18,7 @@ various attributes such as player name, age, nationality, club, overall rating a
 
 During the initial exploration and analysis of the FIFA21 dataset, several issues were identified including:
 
-- Missing values - The Hits and ... had missing values which required careful handling and computation.
+- Missing values - The Hits and Loan Date End columns had missing values which required careful handling and computation.
 - Inconsistent formatting - This was observed across different columns making it necessary to standardize the data
   for consistency. The Heights and Weights columns each had values stored in different units.
 
