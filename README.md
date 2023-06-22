@@ -11,7 +11,7 @@ about players in the popular FIFA21 video game.
 The FIFA 21 dataset used in this project was obtained from a data cleaning challenge on Twitter which I was a part of.
 It consists of player attributes, statistics and other relevant information.
 
-The original FIFA21 dataset contains ... records of player data. Each record represents a unique player and includes
+The original FIFA21 dataset contains 18K+ records of player data. Each record represents a unique player and includes
 various attributes such as player name, age, nationality, club, overall rating and more.
 
 ### Issues found in the data
